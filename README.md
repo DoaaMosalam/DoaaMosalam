@@ -24,7 +24,7 @@ Android developer nanodegree (udacity) AAL
 
 - 💖 Interested in java ,Android studio,SQL,FIREBASE and Flutter. 
 
-- 🎵 Love photography,Writing and soft music. 
+- 🎵 Love photography,Reading and soft music. 
 
 - 💬 Ask me about anything, I love to answer!
 
