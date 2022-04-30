@@ -40,7 +40,5 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=doaamosalam&show_icons=true&locale=en" alt="doaamosalam" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=doaamosalam&" alt="doaamosalam" /></p>
-
-
 <h3 background="#DEB6AB" align="center"> Watch my contributions get eaten by a snake</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg" alt="android" width="1500" height="200"/> </a>
+<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg" alt="android" width="2000" height="100"/> </a>
