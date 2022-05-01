@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/doaamosalam" target="blank"><img src="https://img.shields.io/twitter/follow/doaamosalam?logo=twitter&style=for-the-badge" alt="doaamosalam" /></a> </p>
 
-💻 I am a self taught  java programming and Developer Programming. 
+- 💻 I am a self taught  java programming and Developer Programming. 
 
 - 📚 I have a Deploma in Java programming and software engineering from Duke University (Coursera),and 
 Android developer nanodegree (udacity) AAL
@@ -37,7 +37,6 @@ Android developer nanodegree (udacity) AAL
 
 <a href="https://linkedin.com/in/linkedin.com/in/doaa-mosalam-996b58232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/doaa-mosalam-996b58232" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/doaa mosalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="doaa mosalam" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/doaa mosalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="doaa mosalam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
