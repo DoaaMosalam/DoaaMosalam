@@ -57,3 +57,15 @@ https://camo.githubusercontent.com/6b3d8cc766da3b83b4ff2a7f0c07aedcff854dfe7fbfc
 <hr>
 <h3 style=background-color="#DEB6AB"; align="center"> Watch my contributions get eaten by a snake 🐍 </h3>
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg" alt="android" width="match_parent" height="wrap_content"/> </a>
+<hr>
+<h4 style=background-color="#DEB6AB"; align="left" textsize=30sp> - Samples from my projects</h4>
+<hr>
+<h5 style=background-color="#DEB6AB"; align="left"> Sentific Calculator </h5>
+<p align="left"> * This application is a scientific calculator to perform many advanced mathematical operations</p>
+<p align="left"> * I used the Java language to build this application and its Java Mathematical Library</p>
+https://github.com/DoaaMosalam/Simple-Sentific-Calculator" 
+
+<hr>
+<h6 style=background-color="#DEB6AB"; align="left"> Notes App </h6>
+<p align="left"> * This application is for recording daily notes and saving them in Notes.</p>
+<p  align="left"> * This application was built (in the Java language) and the use of Firebase to save and modify notes, spread them on many other applications.</p>
