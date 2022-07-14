@@ -69,3 +69,5 @@ https://github.com/DoaaMosalam/Simple-Sentific-Calculator"
 <h6 style=background-color="#DEB6AB"; align="left"> Notes App </h6>
 <p align="left"> * This application is for recording daily notes and saving them in Notes.</p>
 <p  align="left"> * This application was built (in the Java language) and the use of Firebase to save and modify notes, spread them on many other applications.</p>
+https://github.com/DoaaMosalam/Notes-App
+<hr>
