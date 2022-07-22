@@ -37,7 +37,9 @@ Android developer nanodegree (udacity) AAL
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/doaa-mosalam-996b58232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/doaa-mosalam-996b58232" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/dodoo_mosalem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dodoo_mosalem" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17068094/doaa-mosalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="doaa mosalam" height="30" width="40" /></a>
+
 </p>
 <hr>
 
