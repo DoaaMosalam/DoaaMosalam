@@ -16,7 +16,7 @@
 - 📚 I have a Deploma in Java programming and software engineering from Duke University (Coursera),and 
 Android developer nanodegree (udacity) AAL
 
-- 🌱 I’m currently learning **Android Studio ,Flutter**
+- 🌱 I’m currently learning **Android Studio ,Kotlin**
 
 - 🌱 Learning about Computer Vision and new technologies. 
 
