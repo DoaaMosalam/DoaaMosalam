@@ -22,7 +22,8 @@ Android developer nanodegree (udacity) AAL
 
 - 🌟 Main languages: Java 
 
-- 💖 Interested in java ,Android studio,SQL,FIREBASE and Flutter. 
+- 💖 Interested in![Uploading 191bf3e6-f5e5-4430-abb9-2294aa3bb728-java-logo-512x512.png…]()
+ java ,Android studio,SQL,FIREBASE and Kotlin. 
 
 - 🎵 Love photography,reading and soft music. 
 
@@ -55,7 +56,7 @@ Android developer nanodegree (udacity) AAL
 https://camo.githubusercontent.com/6b3d8cc766da3b83b4ff2a7f0c07aedcff854dfe7fbfc3cb58776176c3ab02ed/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7269736861766368616e64612673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874 -->
 
 
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/40686512/170604131-1420f4f3-fa07-4d7a-aa9a-ba3bf96db9c9.jpg" alt="android" width="500" height="400"/></a><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doaamosalam&show_icons=true&locale=en" alt="doaamosalam"/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doaamosalam&" alt="doaamosalam"/></p> 
+ <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/40686512/170604131-1420f4f3-fa07-4d7a-aa9a-ba3bf96db9c9.jpg" alt="android" width="500" height="400"/></a><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doaamosalam&show_icons=true&locale=en" alt="doaamosalam"/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doaamosalam&" alt="doaamosalam"/></p>-->
 <hr>
 <h3 style=background-color="#DEB6AB"; align="center"> Watch my contributions get eaten by a snake 🐍 </h3>
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg" alt="android" width="match_parent" height="wrap_content"/> </a>
