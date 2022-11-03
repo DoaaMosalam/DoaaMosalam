@@ -22,7 +22,7 @@ Android developer nanodegree (udacity) AAL
 
 - 🌟 Main languages: Java 
 
-- 💖 Interested in![Uploading 191bf3e6-f5e5-4430-abb9-2294aa3bb728-java-logo-512x512.png…]()
+- 💖 Interested in
  java ,Android studio,SQL,FIREBASE and Kotlin. 
 
 - 🎵 Love photography,reading and soft music. 
