@@ -41,10 +41,8 @@ Android developer nanodegree (udacity) AAL
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/dodoo_mosalem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dodoo_mosalem" height="30" width="40" /></a>
  <a href="https://www.leetcode.com/doaamosalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="doaamosalam" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17068094/doaa-mosalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="doaa mosalam" height="30" width="40" /></a>
-
 </p>
 <hr>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
@@ -59,14 +57,15 @@ Android developer nanodegree (udacity) AAL
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a></a> </a>
 
-<!-- 
-https://camo.githubusercontent.com/6b3d8cc766da3b83b4ff2a7f0c07aedcff854dfe7fbfc3cb58776176c3ab02ed/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7269736861766368616e64612673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874 -->
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoaaMosalam&theme=radical)
 
- <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/40686512/170604131-1420f4f3-fa07-4d7a-aa9a-ba3bf96db9c9.jpg" alt="android" width="500" height="400"/></a><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doaamosalam&show_icons=true&locale=en" alt="doaamosalam"/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doaamosalam&" alt="doaamosalam"/></p>-->
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doaamosalam&show_icons=true&theme=radical" alt="doaamosalam"/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doaamosalam&show_icons=true&theme=radical" alt="doaamosalam"/></p>
 <hr>
 <h3 style=background-color="#DEB6AB"; align="center"> Watch my contributions get eaten by a snake 🐍 </h3>
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg" alt="android" width="match_parent" height="wrap_content"/> </a>
+
+
 <hr>
 <h1 style=background-color="#DEB6AB"; align="left" textsize=30sp> * Samples from my projects</h1>
 
