@@ -39,13 +39,20 @@ Android developer nanodegree (udacity) AAL
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/doaa-mosalam-996b58232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/doaa-mosalam-996b58232" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/dodoo_mosalem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dodoo_mosalem" height="30" width="40" /></a>
+ <a href="https://www.leetcode.com/doaamosalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="doaamosalam" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17068094/doaa-mosalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="doaa mosalam" height="30" width="40" /></a>
 
 </p>
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+ <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+ <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+ <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+ <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+ <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
 <h3 align="left"> Other Languages:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -67,11 +74,15 @@ https://camo.githubusercontent.com/6b3d8cc766da3b83b4ff2a7f0c07aedcff854dfe7fbfc
 <p align="left"> * This application is a <a href="https://github.com/DoaaMosalam/Simple-Sentific-Calculator">scientific calculator</a> to perform many advanced mathematical operations</p>
 <p align="left"> * I used the Java language to build this application and its Java Mathematical Library</p>
 
-
-
 <hr>
 <h6 style=background-color="#DEB6AB"; align="left"> Notes App </h6>
 <p align="left"> * <a href="https://github.com/DoaaMosalam/Notes-App"> Notes App </a> are for recording daily notes and saving them in Notes.</p>
 <p  align="left"> * This application was built (in the Java language) and the use of Firebase to save and modify notes, spread them on many other applications.</p>
-
 <hr>
+<h7 style=background-color="#DEB6AB"; align="left"> Box Movies</h6>
+<p align="left"> * <a href="https://github.com/DoaaMosalam/Box-Movies"> Box Movies </a> This simple application display top rated Movies</p>
+<p  align="left"> * This application was built (in the Java language) and the use of JSON OBJECT <a href="https://www.themoviedb.org/"> TMDB</a> to display Top_rating movies.</p>
+<hr>
+<h8 style=background-color="#DEB6AB"; align="left"> Pop Corn </h6>
+<p align="left"> * <a href="https://github.com/DoaaMosalam/PopCorn"> PopCorn </a> This simple application display top rated Movies</p>
+<p  align="left"> * This application was built (in the Java language) and the use of Restfull Api <a href="https://www.themoviedb.org/"> TMDB</a> to display popular movies and <a href="https://square.github.io/retrofit/">Retrofit</a></p></p>
