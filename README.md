@@ -31,11 +31,11 @@ Android developer nanodegree (udacity) AAL
 
 - 📫 How to reach me <br>
 
-   <a href="DoaaMosalam9@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="https://mail.google.com/mail/u/0/#inbox?compose=XBcJkvfTnsbfJZxtwkNmzVgvZZdZjkVDNvdlKFSFFBMXDlNHbTwghvSmGmHMgGcWzsQnNfJSXHQFXrfG"
-                                                        height="30" width="40" /></a>
-  **DoaaMosalam9@gmail.com**  <a href="dodoo_mosalem@yahoo.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/35004/yahoo.svg"  height="70" width="50" /></a>
-**dodoo_mosalem@yaoo.com**   <a href="Doaa.Mosalam@icloud.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/ICloud_logo.svg"  height="30" width="40" /></a>
- **Doaa.Mosalam@icloud.com**<br>
+   <a href="DoaaMosalam9@gmail.com" target="blank"><img align="" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="https://mail.google.com/mail/u/0/#inbox?compose=XBcJkvfTnsbfJZxtwkNmzVgvZZdZjkVDNvdlKFSFFBMXDlNHbTwghvSmGmHMgGcWzsQnNfJSXHQFXrfG" height="30" width="40" /></a>
+   **DoaaMosalam9@gmail.com** <br>
+  <a href="dodoo_mosalem@yahoo.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/35004/yahoo.svg"  height="70" width="50" /></a>
+**dodoo_mosalem@yaoo.com**<br>
+<a href="Doaa.Mosalam@icloud.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/ICloud_logo.svg"  height="70" width="50" /></a> **Doaa.Mosalam@icloud.com**<br>
                   
 - ⚡ Fun fact **I am Funny**
  <hr>
