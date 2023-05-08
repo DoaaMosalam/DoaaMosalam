@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://twitter.com/doaamosalam" target="blank"><img src="https://img.shields.io/twitter/follow/doaamosalam?logo=twitter&style=for-the-badge" alt="doaamosalam" /></a> </p>
 <hr>
 
-- 💻 I am a self taught  java programming and Developer Programming. 
+- 💻 I am a self taught  java,Kotlin programming and Developer Programming. 
 
 - 📚 I have a Deploma in Java programming and software engineering from Duke University (Coursera),and 
 Android developer nanodegree (udacity) AAL
