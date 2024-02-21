@@ -20,10 +20,10 @@ Android developer nanodegree (udacity) AAL
 
 - 🌱 Learning about Computer Vision and new technologies. 
 
-- 🌟 Main languages: Java 
+- 🌟 Main languages: Java, Kotlin
 
 - 💖 Interested in
- java ,Android studio,SQL,FIREBASE and Kotlin. 
+ java, Kotlin, Android studio, Restfull API, Retrofit, Coroutines, Room database and FIREBASE. 
 
 - 🎵 Love photography,reading and soft music. 
 
