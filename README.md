@@ -83,10 +83,14 @@ Android developer nanodegree (udacity) AAL
 <p align="left"> * <a href="https://github.com/DoaaMosalam/Notes-App"> Notes App </a> are for recording daily notes and saving them in Notes.</p>
 <p  align="left"> * This application was built (in the Java language) and the use of Firebase to save and modify notes, spread them on many other applications.</p>
 <hr>
-<h7 style=background-color="#DEB6AB"; align="left"> Box Movies</h6>
+<h7 style=background-color="#DEB6AB"; align="left"> Box Movies</h7>
 <p align="left"> * <a href="https://github.com/DoaaMosalam/Box-Movies"> Box Movies </a> This simple application display top rated Movies</p>
 <p  align="left"> * This application was built (in the Java language) and the use of JSON OBJECT <a href="https://www.themoviedb.org/"> TMDB</a> to display Top_rating movies.</p>
 <hr>
-<h8 style=background-color="#DEB6AB"; align="left"> Pop Corn </h6>
+<h8 style=background-color="#DEB6AB"; align="left"> Pop Corn </h8>
 <p align="left"> * <a href="https://github.com/DoaaMosalam/PopCorn"> PopCorn </a> This simple application display top rated Movies</p>
 <p  align="left"> * This application was built (in the Java language) and the use of Restfull Api <a href="https://www.themoviedb.org/"> TMDB</a> to display popular movies and <a href="https://square.github.io/retrofit/">Retrofit</a></p></p>
+<hr>
+<h9 style=background-color="#DEB6AB"; align="left"> Quotes app </h9>
+<p align="left"> * <a href="https://github.com/DoaaMosalam/Quotes/tree/home_solution"> Quotes app </a> The Quotes app is a beautifully designed and user-friendly application developed using Kotlin, the modern programming language for Android development. This app aims to provide users with a seamless experience of discovering, saving, and sharing inspirational quotes effortlessly.</p>
+<p  align="left"> * This application was built (in the kotlin language) and the use of RestFull Api, Retrofit, Corotuines, Hilt and room database  </p></p>
