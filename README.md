@@ -1,100 +1,113 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](http://doaamosalam.io)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:f43f5e,35:ec4899,70:8b5cf6,100:3b82f6&text=Doaa%20Mosalam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Android%20Developer%20%7C%20Kotlin%20%7C%20Java%20%7C%20Mobile%20Apps&descAlignY=60&descSize=18" width="100%" alt="Doaa Mosalam header" />
 
+  <br />
 
-<h1 align="center">Hi 👋, I'm Doaa Mosalam</h1>
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
-<h3 align="center"> Software Engineer and Developer Programer </h3>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=EC4899&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Doaa+Mosalam;Android+Developer+who+loves+clean+and+beautiful+apps;Building+with+Kotlin%2C+Java%2C+Firebase%2C+Room%2C+Retrofit;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=doaamosalam&label=Profile%20views&color=0e75b6&style=flat" alt="doaamosalam" /> </p>
+  <br />
 
-<p align="left"> <a href="https://twitter.com/doaamosalam" target="blank"><img src="https://img.shields.io/twitter/follow/doaamosalam?logo=twitter&style=for-the-badge" alt="doaamosalam" /></a> </p>
-<hr>
+  <a href="https://github.com/doaamosalam">
+    <img src="https://komarev.com/ghpvc/?username=doaamosalam&label=Profile%20Views&color=ec4899&style=for-the-badge" alt="Profile views" />
+  </a>
+  <a href="https://github.com/doaamosalam?tab=followers">
+    <img src="https://img.shields.io/github/followers/doaamosalam?label=Followers&style=for-the-badge&logo=github&color=8b5cf6" alt="Followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/doaa-mosalam-996b58232/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:DoaaMosalam.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-- 💻 I am a self taught  java,Kotlin programming and Developer Programming. 
+---
 
-- 📚 I have a Deploma in Java programming and software engineering from Duke University (Coursera),and 
-Android developer nanodegree (udacity) AAL
+## About Me
 
-- 🌱 I’m currently learning **Jetpack Compose ,Kotlin**
+I'm an Android Developer passionate about building mobile apps that feel smooth, useful, and visually polished.  
+I enjoy working on real app experiences, learning modern Android tools, and growing step by step into stronger software engineering.
 
-- 🌱 Learning about Computer Vision and new technologies. 
+- Strongest languages: `Kotlin` and `Java`
+- Currently learning: `Jetpack Compose`, advanced Android concepts, and Computer Vision
+- Interested in: `Firebase`, `Retrofit`, `Room`, `REST APIs`, and clean mobile architecture
+- I enjoy photography, reading, calm music, and creating thoughtful digital experiences
+- I also love sharing knowledge and making tech feel easier for others
 
-- 🌟 Main languages: Java, Kotlin
+---
 
-- 💖 Interested in
- java, Kotlin, Android studio, Restfull API, Retrofit, Coroutines, Room database and FIREBASE. 
+## Quick Info
 
-- 🎵 Love photography,reading and soft music. 
+```kotlin
+About Me
+ data class Developer(
+    val name: String = "Doaa Mosalam",
+    val role: String = "Android Developer",
+    val location: String = "Egypt 🇪🇬",
+    val languages: List<String> = listOf("Kotlin", "Java"),
+    val currentlyLearning: List<String> = listOf(
+        "Advanced Jetpack Compose",
+        "Compiler Construction",
+        "Computer Networks"
+    ),
+    val passions: List<String> = listOf(
+        "📱 Building Beautiful Android Apps",
+        "📚 Sharing Knowledge on LinkedIn",
+        "📸 Photography",
+        "🎵 Soft Music"
+    ),
+    val funFact: String = "I am Funny 😄"
+)
+```
 
-- 💬 Ask me about anything, I love to answer!
+---
 
-- 📫 How to reach me <br>
+## Education
 
-   <a href="DoaaMosalam.dev@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="https://mail.google.com/mail/u/0/#inbox?compose=XBcJkvfTnsbfJZxtwkNmzVgvZZdZjkVDNvdlKFSFFBMXDlNHbTwghvSmGmHMgGcWzsQnNfJSXHQFXrfG" height="30" width="40"/></a> **DoaaMosalam.dev@gmail.com**<br>
-  <a href="dodoo_mosalem@yahoo.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/35004/yahoo.svg"  height="70" width="50" /></a>
-**dodoo_mosalem@yaoo.com**<br>
-<a href="Doaa.Mosalam@icloud.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/ICloud_logo.svg"  height="70" width="50" /></a> **Doaa.Mosalam@icloud.com**<br>
-                  
-- ⚡ Fun fact **I am Funny**
- <hr>
+- Diploma in Java Programming and Software Engineering from Duke University on Coursera
+- Android Developer Nanodegree learner from Udacity
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/doaa-mosalam-996b58232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/doaa-mosalam-996b58232" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/dodoo_mosalem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dodoo_mosalem" height="30" width="40" /></a>
- <a href="https://www.leetcode.com/doaamosalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="doaamosalam" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17068094/doaa-mosalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="doaa mosalam" height="30" width="40" /></a>
-</p>
-<hr>
-<h3 align="left">Languages</h3>
-<p align="left">
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="100"/> </a>
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/> </a> 
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100" height="100"/> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="100" height="100"/></a>
-  
-  <h4 align="left"> Mobile App Development </h4>
-  <p align="left">
- <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="100" height="100"/> </a>
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="100" height="100"/> </a> 
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="100" height="100"/> </a>
- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height="100"/> </a> </p>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="100"/> </a> </p>
+---
 
-  <h4 align="left"> Other Tools </h4>
-  <p align="left"> 
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="100" height="100"/> </a>
-<h3 align="left"> Other Languages:</h3>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="100"/>
-</a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100"/> </a></a> </a>
- 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoaaMosalam&theme=radical)
+## Tech Stack
 
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doaamosalam&show_icons=true&theme=radical" alt="doaamosalam"/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doaamosalam&show_icons=true&theme=radical" alt="doaamosalam"/></p>
-<hr>
-<h3 style=background-color="#DEB6AB"; align="center"> Watch my contributions get eaten by a snake 🐍 </h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg" alt="android" width="match_parent" height="wrap_content"/> </a>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,sqlite,git,github,postman,figma,python,cpp,html,css&perline=7" alt="Tech stack icons" />
+</div>
 
+<br />
 
-<hr>
-<h1 style=background-color="#DEB6AB"; align="left" textsize=30sp> * Samples from my projects</h1>
+<div align="center">
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Coroutines-8B5CF6?style=for-the-badge&logo=kotlin&logoColor=white" alt="Coroutines" />
+  <img src="https://img.shields.io/badge/Room-F43F5E?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room" />
+  <img src="https://img.shields.io/badge/Retrofit-10B981?style=for-the-badge&logo=square&logoColor=white" alt="Retrofit" />
+  <img src="https://img.shields.io/badge/Firebase-F59E0B?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MVVM-3B82F6?style=for-the-badge&logo=android&logoColor=white" alt="MVVM" />
+</div>
 
-<h5 style=background-color="#DEB6AB"; align="left"> Sentific Calculator </h5>
-<p align="left"> * This application is a <a href="https://github.com/DoaaMosalam/Simple-Sentific-Calculator">scientific calculator</a> to perform many advanced mathematical operations</p>
-<p align="left"> * I used the Java language to build this application and its Java Mathematical Library</p>
+---
 
-<hr>
-<h6 style=background-color="#DEB6AB"; align="left"> Notes App </h6>
-<p align="left"> * <a href="https://github.com/DoaaMosalam/Notes-App"> Notes App </a> are for recording daily notes and saving them in Notes.</p>
-<p  align="left"> * This application was built (in the Java language) and the use of Firebase to save and modify notes, spread them on many other applications.</p>
-<hr>
-<h7 style=background-color="#DEB6AB"; align="left"> Box Movies</h7>
-<p align="left"> * <a href="https://github.com/DoaaMosalam/Box-Movies"> Box Movies </a> This simple application display top rated Movies</p>
-<p  align="left"> * This application was built (in the Java language) and the use of JSON OBJECT <a href="https://www.themoviedb.org/"> TMDB</a> to display Top_rating movies.</p>
-<hr>
-<h8 style=background-color="#DEB6AB"; align="left"> Pop Corn </h8>
-<p align="left"> * <a href="https://github.com/DoaaMosalam/PopCorn"> PopCorn </a> This simple application display top rated Movies</p>
-<p  align="left"> * This application was built (in the Java language) and the use of Restfull Api <a href="https://www.themoviedb.org/"> TMDB</a> to display popular movies and <a href="https://square.github.io/retrofit/">Retrofit</a></p></p>
-<hr>
-<h9 style=background-color="#DEB6AB"; align="left"> Quotes app </h9>
-<p align="left"> * <a href="https://github.com/DoaaMosalam/Quotes/tree/home_solution"> Quotes app </a> The Quotes app is a beautifully designed and user-friendly application developed using Kotlin, the modern programming language for Android development. This app aims to provide users with a seamless experience of discovering, saving, and sharing inspirational quotes effortlessly.</p>
-<p  align="left"> * This application was built (in the kotlin language) and the use of RestFull Api, Retrofit, Corotuines, Hilt and room database  </p></p>
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**🎮 ASOLimo**](https://github.com/DoaaMosalam/AsoLemo) | educational games for children (Attention, Memory, Emotion Recognition, Path Tracing)|  `Kotlin` `Hilt` `Room` `Coroutines` `Retrofit` `Navigation`
+| [**💬 Quotes App**](https://github.com/DoaaMosalam/Quotes/tree/home_solution) | Inspirational quotes app with a modern Android structure and smooth user experience | `Kotlin` `Hilt` `Room` `Coroutines` `Retrofit` |
+| [**🎬PopCorn**](https://github.com/DoaaMosalam/PopCorn) | Movies app for browsing popular content through clean Android screens | `Java` `Retrofit` `TMDB API` |
+| [**📝Notes App**](https://github.com/DoaaMosalam/Notes-App) | Simple note-taking app with Firebase integration for saving and updating notes | `Java` `Firebase` |
+| [**🎬Box Movies**](https://github.com/DoaaMosalam/Box-Movies) | App for displaying top-rated movies using TMDB data | `Java` `JSON` `TMDB API` |
+| [**🔢Scientific Calculator**](https://github.com/DoaaMosalam/Simple-Sentific-Calculator) | Calculator app for advanced mathematical operations | `Java` |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=doaamosalam&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doaamosalam&layout=compact&theme=radical&hide_border=true" height="170" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doaamosalam&theme=radical&hide_border=true" height="170" alt="GitHub streak" />
+</div>
