@@ -49,8 +49,9 @@ data class Developer(
 
 | 🏅 Credential | 🏫 Institution |
 |---|---|
-| Diploma in Java Programming & Software Engineering | Duke University — Coursera |
-| Android Developer Nanodegree | Udacity AAL |
+| Diploma in Computer Science | Cairo University | 
+| Android Development Intensive Program (Nanodegree) | Google & MICT, Egypt|
+| Java Programming & Software Engineering Fundamentals | Duke University
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3b82f6,100:10b981&height=3" width="100%"/>
 
