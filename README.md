@@ -106,6 +106,7 @@ data class Developer(
 |---------|-------------|-------|
 | [🎮 **ASOLimo**](https://github.com/DoaaMosalam/AsoLemo) | Interactive educational games for children — Attention, Memory, Emotion Recognition, Path Tracing | `Kotlin` `MVVM` `Hilt` `Room` `Navigation` |
 | [🔐 **Secret Code KMP**](https://github.com/DoaaMosalam/Secret-Code-KMP) | Cross-platform secret messaging app — Android & desktop from one codebase | `KMP` `Compose Multiplatform` `Kotlin` |
+| [📱 **Infinity Store App**](https://github.com/DoaaMosalam/Infinity-Store-App) | E-commerce Android Jetpack Composee | `Kotlin` `Compose` `MVVI` `Hilt` `Room` `Navigation` |
 | [💬 **Quotes App**](https://github.com/DoaaMosalam/Quotes/tree/home_solution) | Discover & save inspirational quotes with modern Android architecture | `Kotlin` `Hilt` `Room` `Coroutines` `Retrofit` |
 | [🎬 **PopCorn**](https://github.com/DoaaMosalam/PopCorn) | Browse popular & top-rated movies with a clean Android UI | `Java` `Retrofit` `TMDB API` |
 | [📝 **Notes App**](https://github.com/DoaaMosalam/Notes-App) | Daily notes with Firebase real-time cloud sync | `Java` `Firebase` |
